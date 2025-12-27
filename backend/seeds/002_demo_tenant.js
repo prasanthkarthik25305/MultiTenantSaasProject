@@ -18,6 +18,6 @@ exports.seed = async function (knex) {
     status: "active",
     subscription_plan: "pro",
     max_users: 10,
-    max_projects: 20
+    max_projects: 20    
   });
 };
