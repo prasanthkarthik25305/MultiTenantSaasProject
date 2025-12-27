@@ -47,7 +47,7 @@ exports.seed = async function (knex) {
       password_hash: userPassword,
       full_name: "Demo User Two",
       role: "user",
-      is_active: true
+      is_active: true     
     }
   ]);
 };
