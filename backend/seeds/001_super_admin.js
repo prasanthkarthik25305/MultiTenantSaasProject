@@ -22,4 +22,8 @@ exports.seed = async function (knex) {
     role: "super_admin",
     is_active: true
   });
-};
+};    
+
+
+
+
