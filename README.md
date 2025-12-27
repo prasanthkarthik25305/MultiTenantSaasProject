@@ -399,7 +399,7 @@ MIT License - See LICENSE file for details
 
 ## 👥 Contributors
 
-- Prasanth Karthik Varma - Initial work
+- Prasanth Karthik Varma 
 
 ## 🙏 Acknowledgments
 
