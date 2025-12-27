@@ -38,7 +38,7 @@ exports.seed = async function (knex) {
       name: "Demo Project Beta",
       description: "Second demo project",
       status: "active",
-      created_by: admin.id
+      created_by: admin.id   
     }
   ]);
 };
